@@ -25,8 +25,6 @@ To transform Raw Data into Meaningful Insights through Interactive Visualization
 ## Dashboard Preview
 
 
-
-
 <img width="190" height="217" alt="Uber proj" src="https://github.com/user-attachments/assets/e0488c94-878d-4917-a201-805171564bab" />
 
 
